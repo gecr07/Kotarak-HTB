@@ -52,7 +52,7 @@ Vemos que tienenel backup
 
 ![image](https://github.com/gecr07/Kotarak-HTB/assets/63270579/c5f4b0cb-639d-4f2b-aa59-8e082da841af)
 
-> <user username="admin" password="3@g01PdhB!" roles="manager,manager-gui,admin-gui,manager-script"/>
+> "admin" password="3@g01PdhB!"
 
 ## RCE
 
